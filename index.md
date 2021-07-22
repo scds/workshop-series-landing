@@ -1,9 +1,17 @@
 ---
 layout: home
 title: Home
-description: Relevant Research Series
+description: Sherman Centre Workshop Series
 nav_order: 1
 ---
+
+# Sherman Centre Workshop Series
+
+## DMDS: Do More with Digital Scholarship
+
+## DASH: Data Analysis Support Hub
+
+## Relevant Research
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
