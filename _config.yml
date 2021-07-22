@@ -1,5 +1,5 @@
-title: Relevant Research Workshop Name # *** Enter workshop title here 
-subtitle: 'Relevant Research Series'
+title: SCDS Workshop Series # *** Enter workshop title here 
+subtitle: 'Landing Page'
 
 remote_theme: scds/just-the-docs
 github_repo_url: "https://scds.github.io/dmds-template/" # ***Enter workshop URL (in github pages) here
