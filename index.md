@@ -8,9 +8,24 @@ nav_order: 1
 
 # Sherman Centre Workshop Series
 
-## [DMDS: Do More with Digital Scholarship]()
+## DMDS: Do More with Digital Scholarship
+- [Introduction to Digitization]()
+- [Roundtable on Digital Scholarship]()
+- [Textual Analysis with Voyant]()
+- [Data Visualization with Tableau]()
+- [Social Media Research Ethics – Preliminary Considerations]()
+- [Network Analysis with Gephi]()
+- [Journal Publishing]()
+- [Data Wrangling with OpenRXfine]()
+- [Introduction to Digital Exhibits with Omeka-S]()
+- [Social Media Research Ethics – Project Design]()
+- [Best Practices for Managing Data in your Research]()
+- [Roundtable: Social Media Research Ethics – Power and Provocations]()
 
-## [DASH: Data Analysis Support Hub]()
+
+## DASH: Data Analysis Support Hub
+- [Intro to GIS](https://scds.github.io/intro-gis/)
+- []()
 
 ## [Relevant Research](https://scds.github.io/relevant-research-landing/)
 
