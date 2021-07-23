@@ -21,14 +21,15 @@ nav_order: 1
 - [Best Practices for Managing Data in your Research](https://scds.github.io/intro-rdm/)
 
 ## DASH: Data Analysis Support Hub
-- [Introduction to Python](https://echo360.ca/media/f8149a76-b627-4b26-aadc-3600945bcc82/public)
 - [Introduction to SPSS](https://echo360.ca/media/6a02fc27-7bee-4395-90b6-ad1a046ac437/public)
 - [Creating High-Impact Figures with Adobe Illustrator](https://echo360.ca/media/5f179134-8790-4c69-89fb-10d89ef6b1f4/public)
 - [Introduction to R Programming](https://echo360.ca/media/cce0cc9a-3f33-4a06-b45e-6f8462029ca6/public)
 - [Introduction to SAS](https://echo360.ca/media/0a95c3ba-c288-4412-9977-bfd5d9cf78c2/public)
-- [GitHub and GitHub Pages](https://scds.github.io/github-pages/)
-- [Python Programming](https://echo360.ca/media/cce0cc9a-3f33-4a06-b45e-6f8462029ca6/public)
+- [Introduction to Python](https://echo360.ca/media/f8149a76-b627-4b26-aadc-3600945bcc82/public)
 - [Intermedia Python Programming](https://echo360.ca/media/93a69b06-3e97-41e7-9bfa-6b0157719e96/public)
+- [Intro to GIS](https://scds.github.io/intro-gis/)
+- [Intro to Business Analyst Online](https://scds.github.io/intro-to-bao/)
+- [Getting started with GitHub and GitHub Pages](https://github.com/scds/github-pages)
 
 ## Relevant Research
 - [Landing page](https://scds.github.io/relevant-research-landing/)
