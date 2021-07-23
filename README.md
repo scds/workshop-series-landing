@@ -7,7 +7,7 @@ This repository contains the source files for the Sherman Centre Workshop Series
 Contributions by the following individuals: 
 - Workshop content created by << ENTER NAME(S) HERE >> 
 - Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Online pages created by Sil Hamilton
 
 
   
