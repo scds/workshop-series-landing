@@ -4,14 +4,15 @@ title: Home
 description: Sherman Centre Workshop Series
 nav_order: 1
 ---
+<img src="assets/img/scds-logo-1280p.png" alt="Logo" width="695">
 
 # Sherman Centre Workshop Series
 
-## DMDS: Do More with Digital Scholarship
+## [DMDS: Do More with Digital Scholarship]()
 
-## DASH: Data Analysis Support Hub
+## [DASH: Data Analysis Support Hub]()
 
-## Relevant Research
+## [Relevant Research](https://scds.github.io/relevant-research-landing/)
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
