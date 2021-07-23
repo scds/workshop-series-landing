@@ -23,6 +23,7 @@ nav_order: 1
 ## DASH: Data Analysis Support Hub
 - [Intro to GIS](https://scds.github.io/intro-gis/)
 - [Intro to Business Analyst Online](https://scds.github.io/intro-to-bao/)
+- [Getting started with GitHub and GitHub Pages](https://github.com/scds/github-pages)
 
 ## Relevant Research
 - [Landing page](https://scds.github.io/relevant-research-landing/)
