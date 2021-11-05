@@ -29,7 +29,7 @@ nav_order: 1
 - [Intermedia Python Programming](https://echo360.ca/media/93a69b06-3e97-41e7-9bfa-6b0157719e96/public)
 - [Intro to GIS](https://scds.github.io/intro-gis/)
 - [Intro to Business Analyst Online](https://scds.github.io/intro-to-bao/)
-- [Getting started with GitHub and GitHub Pages](https://github.com/scds/github-pages)
+- [Getting started with GitHub and GitHub Pages](https://scds.github.io/github-pages/)
 
 ## Relevant Research
 - [Research Beyond Academia](https://scds.github.io/research-beyond-academia/)
